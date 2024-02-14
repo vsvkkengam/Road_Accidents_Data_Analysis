@@ -1,7 +1,7 @@
 # Road_Accidents_Data_Analysis
 The  project is all about the analysis of accidents data for 2021 and 2022 with an interactive power BI dashboard.
 
-Problem statement:
+**Problem statement:**
 Generate the insights from the road accidents data for 2021 and 2022 years. Following are the requirments made by the client. 
 
 1. Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
@@ -13,15 +13,14 @@ Generate the insights from the road accidents data for 2021 and 2022 years. Foll
 7. Total Casualties and Total Accidents by Location
 
 
-Steps and Functinalities Performed in the project:
-✓ Connecting Raw data to power Bi
-✓ Data Cleaning in Power Query
-✓ Data Processing
-✓ Time Intelligence Function/ Calendar Date Table in Power BI
-✓ Data Modelling (Relationship between multiple tables)
-✓ YTD and YoY Growth Calculations using DAX
-✓ KPI and Advanced KPI Generations
-✓ Creating custom columns and measures in the reports
-✓ Importing Images
-✓ Creating different charts and generating insights
-✓ Export the Report to users
+**Steps and Functinalities Performed in the project:**
+1. Connecting Raw data to power Bi
+2. Data Cleaning in Power Query
+3. Data ProcessingTime Intelligence Function/ Calendar Date Table in Power BI
+4. Data Modelling (Relationship between multiple tables)
+5. YTD and YoY Growth Calculations using DAX
+6. KPI and Advanced KPI Generations
+7. Creating custom columns and measures in the reports
+8. Importing Images
+9. Creating different charts and generating insights
+10. Export the Report to users
